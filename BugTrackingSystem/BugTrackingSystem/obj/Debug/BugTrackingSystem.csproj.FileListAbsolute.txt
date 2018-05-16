@@ -1,0 +1,10 @@
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\BugTrackingSystem.exe.config
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\BugTrackingSystem.exe
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\BugTrackingSystem.pdb
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.csprojResolveAssemblyReference.cache
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Form1.resources
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Properties.Resources.resources
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.csproj.GenerateResource.Cache
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.csproj.CoreCompileInputs.cache
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.exe
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.pdb
