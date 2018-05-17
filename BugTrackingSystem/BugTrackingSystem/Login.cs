@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BugTrackingSystem
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
         }
@@ -30,6 +30,21 @@ namespace BugTrackingSystem
         private void label1_Click_1(object sender, EventArgs e)
         {
 
+        }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void close_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

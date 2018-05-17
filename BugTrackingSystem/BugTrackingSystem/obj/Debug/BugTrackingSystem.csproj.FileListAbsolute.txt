@@ -8,3 +8,4 @@ E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\D
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.csproj.CoreCompileInputs.cache
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.exe
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.pdb
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\Bunifu_UI_v1.5.3.dll
