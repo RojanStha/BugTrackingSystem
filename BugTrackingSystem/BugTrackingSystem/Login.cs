@@ -46,5 +46,11 @@ namespace BugTrackingSystem
         {
             this.Close();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Dashboard db = new Dashboard();
+            db.Show();
+        }
     }
 }

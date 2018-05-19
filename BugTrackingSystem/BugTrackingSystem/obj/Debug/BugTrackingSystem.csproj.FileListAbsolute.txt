@@ -2,10 +2,14 @@ E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\D
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\BugTrackingSystem.exe
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\BugTrackingSystem.pdb
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.csprojResolveAssemblyReference.cache
-E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Form1.resources
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Properties.Resources.resources
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.csproj.GenerateResource.Cache
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.csproj.CoreCompileInputs.cache
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.exe
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.pdb
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Bug.resources
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.ProjectForm.resources
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Dashboard.resources
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Login.resources
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Member.resources

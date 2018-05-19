@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace BugTrackingSystem
 {
-    public partial class SignUp : Form
+    public partial class Member : Form
     {
-        public SignUp()
+        public Member()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
