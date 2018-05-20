@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MySql.Data.MySqlClient;
+using MySql;
 
 namespace BugTrackingSystem
 {
@@ -49,8 +51,27 @@ namespace BugTrackingSystem
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Dashboard db = new Dashboard();
-            db.Show();
+            DbConnection();
+
+           // Dashboard db = new Dashboard();
+          //  db.Show();
         }
+
+        private void DbConnection()
+        {
+            //Data Source=127.0.0.1;Database=MyDb1;User Id=root;Password=blabla;SSL Mode=Required"
+            string ConnectString = "Server=localhost; Database=bugtrackingsystem;Uid=root;Pwd=;SSlMode=none;";
+            MySqlConnection Dbconnect = new MySqlConnection(ConnectString);
+            try
+            {
+                Dbconnect.Open();
+                MessageBox.Show("Ok you are connected");
+            }
+            catch(Exception e) {
+                MessageBox.Show(e.Message);
+            }
+
+        }
+
     }
 }

@@ -21,5 +21,15 @@ namespace BugTrackingSystem
         {
 
         }
+
+        private void MemberListdataView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

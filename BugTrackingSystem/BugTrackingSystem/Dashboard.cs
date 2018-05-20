@@ -18,6 +18,9 @@ namespace BugTrackingSystem
             InitializeComponent();
         }
 
+        int mousex = 0;
+        int mousey = 0;
+        bool mousedown;
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -41,6 +44,29 @@ namespace BugTrackingSystem
         private void panel_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void panel2_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (mousedown)
+            {
+                mousex = MousePosition.X - 250;
+                mousey = MousePosition.Y - 40;
+
+                this.SetDesktopLocation(mousex, mousey);
+            }
+
+        }
+
+        private void panel2_MouseDown(object sender, MouseEventArgs e)
+        {
+            mousedown = true;
+            
+        }
+
+        private void panel2_MouseUp(object sender, MouseEventArgs e)
+        {
+            mousedown = false;
         }
     }
 }

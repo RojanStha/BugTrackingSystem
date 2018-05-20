@@ -13,3 +13,6 @@ E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\D
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Dashboard.resources
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Login.resources
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.Member.resources
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\MySql.Data.dll
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\Google.Protobuf.dll
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\MySql.Data.xml
