@@ -16,3 +16,8 @@ E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\D
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\MySql.Data.dll
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\Google.Protobuf.dll
 E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\bin\Debug\MySql.Data.xml
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.view.DevDashboard.resources
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.view.TesterDashboard.resources
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.view.UserProfile.resources
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.view.MemberListView.resources
+E:\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\BugTrackingSystem\obj\Debug\BugTrackingSystem.view.ProjectListView.resources

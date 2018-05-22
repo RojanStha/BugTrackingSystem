@@ -8,21 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BugTrackingSystem
+namespace BugTrackingSystem.view
 {
-    public partial class Member : Form
+    public partial class UserProfile : Form
     {
-        public Member()
+        public UserProfile(string name,string email, string address, string dob,string role)
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label8_Click(object sender, EventArgs e)
+        private void UserProfile_Load(object sender, EventArgs e)
         {
 
         }
